@@ -31,16 +31,13 @@ We merge **technology + creativity** to **bring brands to life.**
 
 ## 📩 Contact Us  
 
-📧 **Email:** [komon@g4man.studio](mailto:komon@g4man.studio)
-
-🌍 **Website:** [g4man.studio](https://g4man.studio)
-
-📝 **Insights & Blog:** [g4man.studio/insights](https://g4man.studio/insights)
-
-📍 **Location:** Mexico 🇲🇽 | Japan 🇯🇵 []()
+📧 **Email:** [komon@g4man.studio](mailto:komon@g4man.studio)  
+🌍 **Website:** [g4man.studio](https://g4man.studio)  
+📝 **Insights & Blog:** [g4man.studio/insights](https://g4man.studio/insights)  
+📍 **Location:** Mexico 🇲🇽 | Japan 🇯🇵 []()  
 
 ---
 
-## 🔥 Let's Build Something Great!  
-🚀 _Transform your brand with G4man Studio._
-🎯 _Innovate. Design. Elevate._
+## 🔥 Let's Build Something Great!
+🚀 _Transform your brand with G4man Studio._  
+🎯 _Innovate. Design. Elevate._  
