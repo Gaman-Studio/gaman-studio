@@ -9,6 +9,6 @@ G4man Studio is a creative and technology-driven agency specializing in:
 - Minimalist, Japanese-inspired branding 🎨
 
 ## 📩 Contact
-📧 contact@g4man.studio  
+📧 komon@g4man.studio 
 🌍 [g4man.studio](https://g4man.studio)  
 📍 Mexico 🇲🇽
