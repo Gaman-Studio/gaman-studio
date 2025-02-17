@@ -1,4 +1,7 @@
-# G4man Studio
+# G4man Studio 🎨💡
+[![GitHub](https://img.shields.io/github/followers/Gaman-Studio?style=social)](https://github.com/Gaman-Studio)
+[![Website](https://img.shields.io/badge/Website-G4man%20Studio-brightgreen)](https://gaman-studio.com)
+
 🚀 Elevating brands with cutting-edge AI, web, and design solutions.
 
 ## 🌟 About Us
